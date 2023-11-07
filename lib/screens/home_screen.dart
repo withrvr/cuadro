@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Text(
-            "Create/Join a room to play Cuadro",
+            "Create/Join a room to play Pictionary",
             style: TextStyle(
               color: Colors.black,
               fontSize: 24,
